@@ -40,18 +40,12 @@ I enjoy building applications, learning new technologies and improving my progra
 
 ### 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
-
-![Pilar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PilyMedina\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PilyMedina\&layout=compact\&theme=tokyonight)
-
----
 
 # 📌 Current Interests
 
