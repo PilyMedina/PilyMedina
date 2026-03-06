@@ -1,16 +1,16 @@
-## Hi there 👋
+Hola, Soy Pilar Medina
 
-<!--
-**PilyMedina/PilyMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrolladora en formación  
+🌎 República Dominicana  
+🚀 Interesada en Desarrollo Full Stack
 
-Here are some ideas to get you started:
+Tecnologias que utilizo
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,java,cs,git,github,mysql,oracle" /><p/>
+  
+💼 LinkedIn: www.linkedin.com/in/pilar-medina-garcía-92887b363
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
