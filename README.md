@@ -1,7 +1,6 @@
 Hola, Soy Pilar Medina
 
 💻 Desarrolladora en formación  
-🌎 República Dominicana  
 🚀 Interesada en Desarrollo Full Stack
 
 Tecnologias que utilizo
